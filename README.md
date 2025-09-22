@@ -73,6 +73,8 @@ Added store logo image for branding
 
 Applied dark theme with consistent formatting and alignment
 
+![dashboard](Images/dashboard.png)
+
 ---
 ## 📊 Dashboard Highlights
 - 📍 **Ciudad de México** is the highest revenue contributor with **$1.65M**  
